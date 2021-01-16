@@ -7,8 +7,6 @@
   "license": "Apache2",
   "dependencies": {
     "aws-sdk": "^2.828.0",
-    "exifr": "^6.0.0",
-    "tempy": "^1.0.0",
-    "uri-js": "^4.4.1"
+    "exifr": "^6.0.0"
   }
 }
