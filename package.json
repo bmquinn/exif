@@ -1,0 +1,14 @@
+{
+  "name": "exif",
+  "version": "0.1.0",
+  "description": "Extract image exif data.",
+  "main": "index.js",
+  "author": "bmquinn",
+  "license": "Apache2",
+  "dependencies": {
+    "aws-sdk": "^2.828.0",
+    "exifr": "^6.0.0",
+    "tempy": "^1.0.0",
+    "uri-js": "^4.4.1"
+  }
+}
